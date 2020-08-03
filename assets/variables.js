@@ -1,10 +1,6 @@
 export default {
-  nicknames: ["Zizah", "Babe", "Sayang", "Yeoboo:)", "Cintuuuuuuu"],
+  nicknames: ["Zizah", "Babe", "Sayang", "Yeoboo:)", "Zizaahhhhhhh"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+       night: "Good Night"
   }
 };
